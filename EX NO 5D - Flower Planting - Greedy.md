@@ -37,7 +37,7 @@ A valid flower assignment always exists
  
 
 ## Program:
-```
+```java
 import java.util.*;
 
 public class GardenFlowerPlanner {
